@@ -1,0 +1,44 @@
+{
+ "salary": [
+  {
+   "type": "income",
+   "amount": 20.0,
+   "date": "2021-02-03"
+  }
+ ],
+ "from house rent": [
+  {
+   "type": "income",
+   "amount": 123.0,
+   "date": "2021-03-02"
+  }
+ ],
+ "grocery": [
+  {
+   "type": "expense",
+   "amount": 45236.0,
+   "date": "2024-02-03"
+  }
+ ],
+ "educational expenses": [
+  {
+   "type": "expense",
+   "amount": 152.0,
+   "date": "2021-03-12"
+  }
+ ],
+ "selling extra foods": [
+  {
+   "type": "income",
+   "amount": 1235.0,
+   "date": "2024-02-05"
+  }
+ ],
+ "fromselling": [
+  {
+   "type": "income",
+   "amount": 1000.0,
+   "date": "2024-02-02"
+  }
+ ]
+}
